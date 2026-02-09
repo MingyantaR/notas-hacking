@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/1-General skills/10-Nice netcat....md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Nice netcat..."
+              "title": "README"
             }
           }
         ]
@@ -180,16 +180,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8aec8c9cbb9c467b",
   "lastOpenFiles": [
-    "PicoCTF/1-General skills/1-Let's warm up.md",
+    "PicoCTF/Plantilla.md",
     "PicoCTF/1-General skills/10-Nice netcat....md",
+    "PicoCTF/1-General skills/1-Let's warm up.md",
     "PicoCTF/1-General skills/7-What's a net cat.md",
     "PicoCTF/1-General skills/9-Glitch Cat.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/1-General skills/8-Plumbing.md",
     "PicoCTF/1-General skills/6-Obedient Cat.md",
     "PicoCTF/1-General skills/5-First Grep.md",
