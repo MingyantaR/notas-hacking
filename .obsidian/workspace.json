@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/3-General skills 3/09-PW Crack 3.md",
+                "file": "PicoCTF/Tarea 1/10-ascii numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-PW Crack 3"
+              "title": "10-ascii numbers"
             }
           }
         ]
@@ -186,24 +186,25 @@
   },
   "active": "8aec8c9cbb9c467b",
   "lastOpenFiles": [
-    "PicoCTF/3-General skills 3/10-Serpentine.md",
-    "PicoCTF/3-General skills 3/09-PW Crack 3.md",
-    "PicoCTF/3-General skills 3/08-PW Crack 2.md",
-    "PicoCTF/3-General skills 3/07-PW Crack 1.md",
+    "PicoCTF/Tarea 1/09-binhexa.md",
+    "PicoCTF/Tarea 1/10-ascii numbers.md",
+    "PicoCTF/Tarea 1/08-binary search.md",
+    "PicoCTF/Tarea 1/07-Collaborative Development.md",
+    "PicoCTF/Tarea 1/06-blame game.md",
+    "PicoCTF/Tarea 1/05-Time Machine.md",
+    "PicoCTF/Tarea 1/04-Commitment Issues.md",
+    "PicoCTF/Tarea 1/03-special.md",
     "PicoCTF/Tarea 1/02-chrono.md",
     "PicoCTF/Tarea 1/01-permissions.md",
+    "PicoCTF/3-General skills 3/09-PW Crack 3.md",
+    "PicoCTF/3-General skills 3/10-Serpentine.md",
+    "PicoCTF/3-General skills 3/08-PW Crack 2.md",
+    "PicoCTF/3-General skills 3/07-PW Crack 1.md",
     "PicoCTF/2-General skills 2/09-Big Zip.md",
     "PicoCTF/2-General skills 2/08-repetitions.md",
     "PicoCTF/2-General skills 2/07-Magikarp Ground Mission.md",
     "PicoCTF/2-General skills 2/06-Tab, Tab, Attack.md",
-    "PicoCTF/Tarea 1/08-binary search.md",
-    "PicoCTF/Tarea 1/10-ascii numbers.md",
-    "PicoCTF/Tarea 1/09-binhexa.md",
-    "PicoCTF/Tarea 1/07-collaborative development.md",
-    "PicoCTF/Tarea 1/06-blame game.md",
     "PicoCTF/Tarea 1/05-time machine.md",
-    "PicoCTF/Tarea 1/04-comittee issue.md",
-    "PicoCTF/Tarea 1/03-special.md",
     "PicoCTF/Plantilla.md",
     "PicoCTF/1-General skills/09-Glitch Cat.md",
     "PicoCTF/Tarea 1",
@@ -212,7 +213,6 @@
     "PicoCTF/1-General skills/06-Obedient Cat.md",
     "PicoCTF/1-General skills/05-First Grep.md",
     "PicoCTF/1-General skills/04-Bases.md",
-    "PicoCTF/1-General skills/03-Warmed up.md",
     "PicoCTF/3-General skills 3",
     "PicoCTF/2-General skills 2/Untitled",
     "PicoCTF/2-General skills 2",
