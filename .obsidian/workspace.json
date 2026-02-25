@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/1-Web/06-Client-side-again.md",
+                "file": "PicoCTF/5-Web 2/03-Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Client-side-again"
+              "title": "03-Scavenger Hunt"
             }
           }
         ]
@@ -186,18 +186,22 @@
   },
   "active": "8aec8c9cbb9c467b",
   "lastOpenFiles": [
-    "PicoCTF/1-Web/05-picobrowser.md",
-    "PicoCTF/1-Web/04-dont-use-client-side.md",
-    "PicoCTF/1-Web/06-Client-side-again.md",
+    "PicoCTF/5-Web 2/02-Cookies.md",
+    "PicoCTF/5-Web 2/03-Scavenger Hunt.md",
+    "PicoCTF/5-Web 2/01-GET aHEAD.md",
+    "PicoCTF/4-Web/05-picobrowser.md",
+    "PicoCTF/4-Web/06-Client-side-again.md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/5-Web 2",
+    "PicoCTF/4-Web/04-dont-use-client-side.md",
     "PicoCTF/2-General skills 2/02-Strings it.md",
-    "PicoCTF/1-Web/01-Insp3ct0r.md",
+    "PicoCTF/4-Web/01-Insp3ct0r.md",
     "PicoCTF/1-General skills/09-Glitch Cat.md",
     "PicoCTF/1-General skills/10-Nice netcat....md",
-    "PicoCTF/1-Web/03-Logon.md",
-    "PicoCTF/1-Web/02-where are the robots.md",
+    "PicoCTF/4-Web/03-Logon.md",
+    "PicoCTF/4-Web/02-where are the robots.md",
     "PicoCTF/Tarea 1/08-binary search.md",
-    "PicoCTF/1-Web",
+    "PicoCTF/4-Web",
     "PicoCTF/Tarea 1/10-ascii numbers.md",
     "PicoCTF/Tarea 1/09-binhexa.md",
     "PicoCTF/Tarea 1/07-Collaborative Development.md",
@@ -210,9 +214,6 @@
     "PicoCTF/3-General skills 3/09-PW Crack 3.md",
     "PicoCTF/3-General skills 3/10-Serpentine.md",
     "PicoCTF/3-General skills 3/08-PW Crack 2.md",
-    "PicoCTF/3-General skills 3/07-PW Crack 1.md",
-    "PicoCTF/2-General skills 2/09-Big Zip.md",
-    "PicoCTF/2-General skills 2/08-repetitions.md",
     "PicoCTF/Tarea 1",
     "PicoCTF/3-General skills 3",
     "PicoCTF/2-General skills 2/Untitled",
