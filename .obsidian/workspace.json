@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8dba0941683d6293",
+            "id": "3b21ac15830acc53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 2/01-Includes.md",
+                "file": "PicoCTF/9-Forensic 2/05-shark on wire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Includes"
-            }
-          },
-          {
-            "id": "ed05ad5684c8c320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/8-Forensic 1/05-What Lies Within.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05-What Lies Within"
+              "title": "05-shark on wire"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,22 +184,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed05ad5684c8c320",
+  "active": "3b21ac15830acc53",
   "lastOpenFiles": [
-    "PicoCTF/8-Forensic 1/04-exensions.md",
-    "PicoCTF/8-Forensic 1/05-What Lies Within.md",
+    "PicoCTF/9-Forensic 2/04-like1000.md",
+    "PicoCTF/9-Forensic 2/05-shark on wire.md",
+    "PicoCTF/7-Web 4/04-Most Cookies.md",
+    "PicoCTF/9-Forensic 2/03-c0rrupt.md",
     "PicoCTF/8-Forensic 1/02-So Meta.md",
     "PicoCTF/8-Forensic 1/03-shark on wire 1.md",
-    "PicoCTF/8-Forensic 1/01-Glory of the garden.md",
-    "PicoCTF/7-Web 4/04-Most Cookies.md",
+    "PicoCTF/8-Forensic 1/04-exensions.md",
+    "PicoCTF/8-Forensic 1/05-What Lies Within.md",
+    "PicoCTF/9-Forensic 2/02-WhitePages.md",
+    "PicoCTF/9-Forensic 2/01-m00nwalk.md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/9-Forensic 2",
+    "PicoCTF/Tarea 2/01-Includes.md",
+    "PicoCTF/8-Forensic 1/01-Glory of the garden.md",
     "PicoCTF/8-Forensic 1/Untitled",
     "PicoCTF/Tarea 2/10-WebDecode.md",
     "PicoCTF/8-Forensic 1",
     "PicoCTF/Tarea 2/09-Unminify.md",
     "PicoCTF/Tarea 2/08-SQLiLite.md",
     "PicoCTF/Tarea 2/07-Secrets.md",
-    "PicoCTF/Tarea 2/01-Includes.md",
     "PicoCTF/Tarea 2/06-Roboto Sans.md",
     "PicoCTF/Tarea 2/05-Power Cookie.md",
     "PicoCTF/Tarea 2/02-Inspect HTML.md",
@@ -226,17 +217,11 @@
     "PicoCTF/Tarea 2",
     "PicoCTF/7-Web 4/01-MatchTheRegex.md",
     "PicoCTF/7-Web 4/02-SOAP.md",
-    "PicoCTF/6-Web 3/03-JaWT Scratchpad.md",
-    "PicoCTF/6-Web 3/02-More SQLi.md",
     "PicoCTF/7-Web 4",
     "Untitled",
-    "PicoCTF/6-Web 3/01-Irish-Name-Repo 1.md",
-    "PicoCTF/5-Web 2/03-Scavenger Hunt.md",
-    "PicoCTF/5-Web 2/02-Cookies.md",
     "PicoCTF/6-Web 3",
     "PicoCTF/5-Web 2",
     "PicoCTF/4-Web",
-    "PicoCTF/Tarea 1",
     "Pasted image 20260206180819.png"
   ]
 }
