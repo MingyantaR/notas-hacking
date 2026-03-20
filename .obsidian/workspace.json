@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d10bee44bae9f6",
+        "id": "2ed8c1817d9ae6a5",
         "type": "tabs",
         "children": [
           {
-            "id": "3b21ac15830acc53",
+            "id": "e6ca0452b44719b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/9-Forensic 2/05-shark on wire.md",
+                "file": "PicoCTF/10-Forensic 3/05-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-shark on wire"
+              "title": "05-MacroHard WeakEdge"
             }
           }
         ]
@@ -184,10 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b21ac15830acc53",
+  "active": "e6ca0452b44719b2",
   "lastOpenFiles": [
-    "PicoCTF/9-Forensic 2/04-like1000.md",
+    "PicoCTF/10-Forensic 3/03-Matryoshka doll.md",
+    "PicoCTF/10-Forensic 3/04-tunn3l_v1s10n.md",
+    "PicoCTF/10-Forensic 3/05-MacroHard WeakEdge.md",
+    "PicoCTF/10-Forensic 3/02-Webnet1.md",
     "PicoCTF/9-Forensic 2/05-shark on wire.md",
+    "PicoCTF/10-Forensic 3/01-WebNet0.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/10-Forensic 3",
+    "PicoCTF/10-Forensic 3.md",
+    "README.md",
+    "PicoCTF/9-Forensic 2/04-like1000.md",
     "PicoCTF/7-Web 4/04-Most Cookies.md",
     "PicoCTF/9-Forensic 2/03-c0rrupt.md",
     "PicoCTF/8-Forensic 1/02-So Meta.md",
@@ -196,7 +205,6 @@
     "PicoCTF/8-Forensic 1/05-What Lies Within.md",
     "PicoCTF/9-Forensic 2/02-WhitePages.md",
     "PicoCTF/9-Forensic 2/01-m00nwalk.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/9-Forensic 2",
     "PicoCTF/Tarea 2/01-Includes.md",
     "PicoCTF/8-Forensic 1/01-Glory of the garden.md",
@@ -208,20 +216,12 @@
     "PicoCTF/Tarea 2/07-Secrets.md",
     "PicoCTF/Tarea 2/06-Roboto Sans.md",
     "PicoCTF/Tarea 2/05-Power Cookie.md",
-    "PicoCTF/Tarea 2/02-Inspect HTML.md",
-    "PicoCTF/Tarea 2/03-IntroToBurp.md",
-    "PicoCTF/Tarea 2/04-Local Authority.md",
-    "PicoCTF/7-Web 4/03-Trickster.md",
-    "PicoCTF/Tarea 2/06-Power Cookie.md",
     "PicoCTF/Tarea 2/Untitled",
     "PicoCTF/Tarea 2",
-    "PicoCTF/7-Web 4/01-MatchTheRegex.md",
-    "PicoCTF/7-Web 4/02-SOAP.md",
     "PicoCTF/7-Web 4",
     "Untitled",
     "PicoCTF/6-Web 3",
     "PicoCTF/5-Web 2",
-    "PicoCTF/4-Web",
     "Pasted image 20260206180819.png"
   ]
 }

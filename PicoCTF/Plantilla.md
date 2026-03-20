@@ -1,5 +1,3 @@
-## Reto
-
 ## Descripcion
 
 ## Solucion
