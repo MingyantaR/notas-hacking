@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79994f29969183ac",
+        "id": "a99b874d9f35a759",
         "type": "tabs",
         "children": [
           {
-            "id": "fe013b634519e5a8",
+            "id": "fb15bd9ca7a8000a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/11-Forensic 4/06-Operation Oni.md",
+                "file": "PicoCTF/Examen 1/Web Exploitation/08-SSTI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Operation Oni"
+              "title": "08-SSTI2"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.5
   },
   "right": {
     "id": "f54a16bac61037a5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Tarea 2/08-SQLiLite.md",
+                "file": "PicoCTF/Examen 1/General Skills/09-SansAlpha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08-SQLiLite"
+              "title": "Backlinks for 09-SansAlpha"
             }
           },
           {
@@ -184,44 +184,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe013b634519e5a8",
+  "active": "fb15bd9ca7a8000a",
   "lastOpenFiles": [
-    "PicoCTF/03-General skills 3/10-Serpentine.md",
-    "PicoCTF/11-Forensic 4/05-Operation Orchid.md",
-    "PicoCTF/11-Forensic 4/06-Operation Oni.md",
-    "PicoCTF/11-Forensic 4/04-Sleuthkit Apprentice.md",
-    "PicoCTF/11-Forensic 4/03-Sleuthkit Intro.md",
-    "PicoCTF/11-Forensic 4/02-Disk, disk, sleuth!.md",
-    "PicoCTF/11-Forensic 4/01-Milkslap.md",
-    "PicoCTF/03-General skills 3/07-PW Crack 1.md",
-    "PicoCTF/03-General skills 3/09-PW Crack 3.md",
+    "PicoCTF/Examen 1/Web Exploitation/07-SQL Direct.md",
+    "PicoCTF/Examen 1/Web Exploitation/08-SSTI2.md",
+    "PicoCTF/Examen 1/Web Exploitation/04-SSTI1.md",
+    "PicoCTF/Examen 1/Web Exploitation/01-Bookmarklet.md",
+    "PicoCTF/Examen 1/Web Exploitation/06-Java Code Analysis.md",
+    "PicoCTF/Examen 1/Web Exploitation/05-findme.md",
+    "PicoCTF/Examen 1/Web Exploitation/03-head-dump.md",
+    "PicoCTF/Examen 1/Web Exploitation/02-Cookie Monster Secret Recipe.md",
+    "PicoCTF/Examen 1/General Skills/10-Specialer.md",
     "PicoCTF/Plantilla.md",
-    "PicoCTF/Examen 1/01 Printer Shares.md",
+    "PicoCTF/Examen 1/Web Exploitation/Untitled",
+    "PicoCTF/Examen 1/Web Exploitation/01-Crack the Gate 1.md",
+    "PicoCTF/Examen 1/General Skills/08-Python Wrangling.md",
+    "PicoCTF/Examen 1/General Skills/09-SansAlpha.md",
+    "PicoCTF/Examen 1/General Skills/04-Rust fixme 2.md",
+    "PicoCTF/Examen 1/General Skills/07-flag_shop.md",
+    "PicoCTF/Examen 1/General Skills/06-dont-you-love-banners.md",
+    "PicoCTF/Examen 1/General Skills/05-Rust fixme 3.md",
+    "PicoCTF/Examen 1/General Skills/03-Rust fixme 1.md",
+    "PicoCTF/Examen 1/General Skills/02-HashingJobApp.md",
+    "PicoCTF/Examen 1/General Skills/01-FANTASY CTF.md",
+    "PicoCTF/Examen 1/General Skills/06-endianness.md",
+    "PicoCTF/11-Forensic 4/01-Milkslap.md",
+    "PicoCTF/Examen 1/Web Exploitation/10-3v@l.md",
+    "PicoCTF/Examen 1/Web Exploitation/08-Pachinko.md",
+    "PicoCTF/Examen 1/Web Exploitation/07-byp4ss3d.md",
+    "PicoCTF/Examen 1/Web Exploitation/06-Crack the Gate 2.md",
+    "PicoCTF/Examen 1/Web Exploitation",
+    "PicoCTF/Examen 1/Untitled.canvas",
+    "PicoCTF/Examen 1/General Skills",
+    "PicoCTF/Examen 1",
     "PicoCTF/11-Forensic 4",
-    "PicoCTF/Examen 1/SUDO MAKE ME A SANDWICH.md",
-    "PicoCTF/Examen 1/Quizploit.md",
-    "PicoCTF/Examen 1/piece by piece.md",
-    "PicoCTF/Examen 1/bytemancy 0.md",
-    "PicoCTF/Examen 1/binary digits.md",
-    "PicoCTF/Examen 1/05 MultiCode.md",
-    "PicoCTF/Examen 1/04 DISKO 4.md",
-    "PicoCTF/Examen 1/03 MY GIT.md",
-    "PicoCTF/Examen 1/02 Password Profiler.md",
     "PicoCTF/Examen 1/05 MultiCode.txt",
     "PicoCTF/Examen 1/04 DISKO 4.txt",
     "PicoCTF/Examen 1/03 MY GIT.txt",
     "PicoCTF/Examen 1/02 Password Profiler.txt",
     "PicoCTF/Examen 1/02 Password Profiler (4).txt",
-    "PicoCTF/Examen 1/02 Password Profiler (3).txt",
-    "PicoCTF/Examen 1/02 Password Profiler (2).txt",
-    "PicoCTF/Examen 1/02 Password Profiler (1).txt",
-    "PicoCTF/10-Forensic 3/05-MacroHard WeakEdge.md",
-    "PicoCTF/10-Forensic 3/03-Matryoshka doll.md",
-    "PicoCTF/10-Forensic 3/04-tunn3l_v1s10n.md",
-    "PicoCTF/10-Forensic 3/02-Webnet1.md",
-    "PicoCTF/09-Forensic 2/05-shark on wire.md",
-    "PicoCTF/10-Forensic 3/01-WebNet0.md",
-    "PicoCTF/10-Forensic 3",
     "Pasted image 20260206180819.png"
   ]
 }
