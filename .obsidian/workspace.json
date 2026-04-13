@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Examen 1/Web Exploitation/08-SSTI2.md",
+                "file": "PicoCTF/12-Crypto 1/08-interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-SSTI2"
+              "title": "08-interencdec"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "f54a16bac61037a5",
@@ -186,8 +187,19 @@
   },
   "active": "fb15bd9ca7a8000a",
   "lastOpenFiles": [
-    "PicoCTF/Examen 1/Web Exploitation/07-SQL Direct.md",
+    "PicoCTF/12-Crypto 1/07-waves over lambda.md",
+    "PicoCTF/12-Crypto 1/06-Tapping.md",
+    "PicoCTF/12-Crypto 1/05-la cifra de.md",
+    "PicoCTF/12-Crypto 1/03-Caesar.md",
+    "PicoCTF/12-Crypto 1/04-Easy 1.md",
+    "PicoCTF/10-Forensic 3/03-Matryoshka doll.md",
+    "PicoCTF/12-Crypto 1/02-13.md",
+    "PicoCTF/12-Crypto 1/01-The numbers.md",
+    "PicoCTF/12-Crypto 1/08-interencdec.md",
+    "PicoCTF/Plantilla.md",
     "PicoCTF/Examen 1/Web Exploitation/08-SSTI2.md",
+    "PicoCTF/12-Crypto 1",
+    "PicoCTF/Examen 1/Web Exploitation/07-SQL Direct.md",
     "PicoCTF/Examen 1/Web Exploitation/04-SSTI1.md",
     "PicoCTF/Examen 1/Web Exploitation/01-Bookmarklet.md",
     "PicoCTF/Examen 1/Web Exploitation/06-Java Code Analysis.md",
@@ -195,7 +207,6 @@
     "PicoCTF/Examen 1/Web Exploitation/03-head-dump.md",
     "PicoCTF/Examen 1/Web Exploitation/02-Cookie Monster Secret Recipe.md",
     "PicoCTF/Examen 1/General Skills/10-Specialer.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/Examen 1/Web Exploitation/Untitled",
     "PicoCTF/Examen 1/Web Exploitation/01-Crack the Gate 1.md",
     "PicoCTF/Examen 1/General Skills/08-Python Wrangling.md",
@@ -204,15 +215,6 @@
     "PicoCTF/Examen 1/General Skills/07-flag_shop.md",
     "PicoCTF/Examen 1/General Skills/06-dont-you-love-banners.md",
     "PicoCTF/Examen 1/General Skills/05-Rust fixme 3.md",
-    "PicoCTF/Examen 1/General Skills/03-Rust fixme 1.md",
-    "PicoCTF/Examen 1/General Skills/02-HashingJobApp.md",
-    "PicoCTF/Examen 1/General Skills/01-FANTASY CTF.md",
-    "PicoCTF/Examen 1/General Skills/06-endianness.md",
-    "PicoCTF/11-Forensic 4/01-Milkslap.md",
-    "PicoCTF/Examen 1/Web Exploitation/10-3v@l.md",
-    "PicoCTF/Examen 1/Web Exploitation/08-Pachinko.md",
-    "PicoCTF/Examen 1/Web Exploitation/07-byp4ss3d.md",
-    "PicoCTF/Examen 1/Web Exploitation/06-Crack the Gate 2.md",
     "PicoCTF/Examen 1/Web Exploitation",
     "PicoCTF/Examen 1/Untitled.canvas",
     "PicoCTF/Examen 1/General Skills",
@@ -222,7 +224,6 @@
     "PicoCTF/Examen 1/04 DISKO 4.txt",
     "PicoCTF/Examen 1/03 MY GIT.txt",
     "PicoCTF/Examen 1/02 Password Profiler.txt",
-    "PicoCTF/Examen 1/02 Password Profiler (4).txt",
     "Pasted image 20260206180819.png"
   ]
 }
