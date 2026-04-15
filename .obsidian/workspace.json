@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/12-Crypto 1/08-interencdec.md",
+                "file": "PicoCTF/13-Crypto 2/01-rsa pop quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-interencdec"
+              "title": "01-rsa pop quiz"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "f54a16bac61037a5",
@@ -187,6 +186,10 @@
   },
   "active": "fb15bd9ca7a8000a",
   "lastOpenFiles": [
+    "PicoCTF/12-Crypto 1/08-interencdec.md",
+    "PicoCTF/13-Crypto 2/01-rsa pop quiz.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/13-Crypto 2",
     "PicoCTF/12-Crypto 1/07-waves over lambda.md",
     "PicoCTF/12-Crypto 1/06-Tapping.md",
     "PicoCTF/12-Crypto 1/05-la cifra de.md",
@@ -195,8 +198,6 @@
     "PicoCTF/10-Forensic 3/03-Matryoshka doll.md",
     "PicoCTF/12-Crypto 1/02-13.md",
     "PicoCTF/12-Crypto 1/01-The numbers.md",
-    "PicoCTF/12-Crypto 1/08-interencdec.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/Examen 1/Web Exploitation/08-SSTI2.md",
     "PicoCTF/12-Crypto 1",
     "PicoCTF/Examen 1/Web Exploitation/07-SQL Direct.md",
@@ -214,7 +215,6 @@
     "PicoCTF/Examen 1/General Skills/04-Rust fixme 2.md",
     "PicoCTF/Examen 1/General Skills/07-flag_shop.md",
     "PicoCTF/Examen 1/General Skills/06-dont-you-love-banners.md",
-    "PicoCTF/Examen 1/General Skills/05-Rust fixme 3.md",
     "PicoCTF/Examen 1/Web Exploitation",
     "PicoCTF/Examen 1/Untitled.canvas",
     "PicoCTF/Examen 1/General Skills",
@@ -223,7 +223,6 @@
     "PicoCTF/Examen 1/05 MultiCode.txt",
     "PicoCTF/Examen 1/04 DISKO 4.txt",
     "PicoCTF/Examen 1/03 MY GIT.txt",
-    "PicoCTF/Examen 1/02 Password Profiler.txt",
     "Pasted image 20260206180819.png"
   ]
 }
