@@ -1,5 +1,5 @@
 ## Descripcion
-Class, take your seats! It's PRIME-time for a quiz... nc fickle-tempest.picoctf.net 49921
+take your seats! It's PRIME-time for a quiz... nc fickle-tempest.picoctf.net 49921
 ## Solucion
 al entrar al servidor nos da una seria de preguntas que podremos resolver con estas operaciones dependiendo de que pida:
 ```
