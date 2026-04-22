@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/14-crypto 3/04-b00tl3gRSA3.md",
+                "file": "PicoCTF/15-Crypto 4/05-flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-b00tl3gRSA3"
+              "title": "05-flags"
             }
           }
         ]
@@ -186,14 +186,20 @@
   },
   "active": "fb15bd9ca7a8000a",
   "lastOpenFiles": [
-    "PicoCTF/14-crypto 3/02-Mind your Ps and Qs.md",
-    "PicoCTF/14-crypto 3/04-b00tl3gRSA3.md",
-    "PicoCTF/14-crypto 3/03-b00tl3gRSA2.md",
-    "PicoCTF/14-crypto 3/01-Mini RSA.md",
-    "PicoCTF/09-Forensic 2/04-like1000.md",
+    "PicoCTF/15-Crypto 4/04-ReadMyCert.md",
+    "PicoCTF/15-Crypto 4/02-basic-mod1.md",
+    "PicoCTF/15-Crypto 4/01-Pixelated.md",
+    "PicoCTF/15-Crypto 4/03-HideToSee.md",
+    "PicoCTF/14-Crypto 3/04-b00tl3gRSA3.md",
+    "PicoCTF/15-Crypto 4/05-flags.md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/15-Crypto 4",
+    "PicoCTF/14-Crypto 3/02-Mind your Ps and Qs.md",
+    "PicoCTF/14-Crypto 3/03-b00tl3gRSA2.md",
+    "PicoCTF/14-Crypto 3/01-Mini RSA.md",
+    "PicoCTF/09-Forensic 2/04-like1000.md",
     "PicoCTF/13-Crypto 2/Untitled.md",
-    "PicoCTF/14-crypto 3",
+    "PicoCTF/14-Crypto 3",
     "PicoCTF/13-Crypto 2/01-rsa pop quiz.md",
     "PicoCTF/12-Crypto 1/08-interencdec.md",
     "PicoCTF/13-Crypto 2",
@@ -210,11 +216,6 @@
     "PicoCTF/Examen 1/Web Exploitation/07-SQL Direct.md",
     "PicoCTF/Examen 1/Web Exploitation/04-SSTI1.md",
     "PicoCTF/Examen 1/Web Exploitation/01-Bookmarklet.md",
-    "PicoCTF/Examen 1/Web Exploitation/06-Java Code Analysis.md",
-    "PicoCTF/Examen 1/Web Exploitation/05-findme.md",
-    "PicoCTF/Examen 1/Web Exploitation/03-head-dump.md",
-    "PicoCTF/Examen 1/Web Exploitation/02-Cookie Monster Secret Recipe.md",
-    "PicoCTF/Examen 1/General Skills/10-Specialer.md",
     "PicoCTF/Examen 1/Web Exploitation/Untitled",
     "PicoCTF/Examen 1/Web Exploitation",
     "PicoCTF/Examen 1/Untitled.canvas",
@@ -222,7 +223,6 @@
     "PicoCTF/Examen 1",
     "PicoCTF/11-Forensic 4",
     "PicoCTF/Examen 1/05 MultiCode.txt",
-    "PicoCTF/Examen 1/04 DISKO 4.txt",
     "Pasted image 20260206180819.png"
   ]
 }
