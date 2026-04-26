@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/15-Crypto 4/05-flags.md",
+                "file": "PicoCTF/Tarea 4/10-Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-flags"
+              "title": "10-Vigenere"
             }
           }
         ]
@@ -186,16 +186,27 @@
   },
   "active": "fb15bd9ca7a8000a",
   "lastOpenFiles": [
+    "PicoCTF/Tarea 4/09-substitution2.md",
+    "PicoCTF/Tarea 4/10-Vigenere.md",
+    "PicoCTF/Tarea 4/08-substitution1.md",
+    "PicoCTF/Tarea 4/07-substitution0.md",
+    "PicoCTF/Tarea 4/06-rail-fence.md",
+    "PicoCTF/Tarea 4/05-morse-code.md",
+    "PicoCTF/Tarea 4/04-hashcrack.md",
+    "PicoCTF/Tarea 4/03-EVEN RSA CAN BE BROKEN.md",
+    "PicoCTF/Tarea 4/02-credstuff.md",
+    "PicoCTF/Tarea 4/01-Crack the Power.md",
+    "PicoCTF/14-Crypto 3/03-b00tl3gRSA2.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/15-Crypto 4/05-flags.md",
+    "PicoCTF/Tarea 4",
     "PicoCTF/15-Crypto 4/04-ReadMyCert.md",
     "PicoCTF/15-Crypto 4/02-basic-mod1.md",
     "PicoCTF/15-Crypto 4/01-Pixelated.md",
     "PicoCTF/15-Crypto 4/03-HideToSee.md",
     "PicoCTF/14-Crypto 3/04-b00tl3gRSA3.md",
-    "PicoCTF/15-Crypto 4/05-flags.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/15-Crypto 4",
     "PicoCTF/14-Crypto 3/02-Mind your Ps and Qs.md",
-    "PicoCTF/14-Crypto 3/03-b00tl3gRSA2.md",
     "PicoCTF/14-Crypto 3/01-Mini RSA.md",
     "PicoCTF/09-Forensic 2/04-like1000.md",
     "PicoCTF/13-Crypto 2/Untitled.md",
@@ -205,24 +216,13 @@
     "PicoCTF/13-Crypto 2",
     "PicoCTF/12-Crypto 1/07-waves over lambda.md",
     "PicoCTF/12-Crypto 1/06-Tapping.md",
-    "PicoCTF/12-Crypto 1/05-la cifra de.md",
-    "PicoCTF/12-Crypto 1/03-Caesar.md",
-    "PicoCTF/12-Crypto 1/04-Easy 1.md",
-    "PicoCTF/10-Forensic 3/03-Matryoshka doll.md",
-    "PicoCTF/12-Crypto 1/02-13.md",
-    "PicoCTF/12-Crypto 1/01-The numbers.md",
-    "PicoCTF/Examen 1/Web Exploitation/08-SSTI2.md",
     "PicoCTF/12-Crypto 1",
-    "PicoCTF/Examen 1/Web Exploitation/07-SQL Direct.md",
-    "PicoCTF/Examen 1/Web Exploitation/04-SSTI1.md",
-    "PicoCTF/Examen 1/Web Exploitation/01-Bookmarklet.md",
     "PicoCTF/Examen 1/Web Exploitation/Untitled",
     "PicoCTF/Examen 1/Web Exploitation",
     "PicoCTF/Examen 1/Untitled.canvas",
     "PicoCTF/Examen 1/General Skills",
     "PicoCTF/Examen 1",
     "PicoCTF/11-Forensic 4",
-    "PicoCTF/Examen 1/05 MultiCode.txt",
     "Pasted image 20260206180819.png"
   ]
 }
