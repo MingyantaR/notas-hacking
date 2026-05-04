@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/16-Reversing 1/05-vault-door-5.md",
+                "file": "PicoCTF/17-Reversing 2/06-timer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-vault-door-5"
+              "title": "06-timer"
             }
           }
         ]
@@ -186,19 +186,26 @@
   },
   "active": "391d9caefd4800e3",
   "lastOpenFiles": [
+    "PicoCTF/17-Reversing 2/05-Safe Opener.md",
+    "PicoCTF/17-Reversing 2/04-Picker IV.md",
+    "PicoCTF/17-Reversing 2/03-Picker III.md",
+    "PicoCTF/17-Reversing 2/02-Picker II.md",
+    "PicoCTF/17-Reversing 2/01-Picker I.md",
+    "PicoCTF/17-Reversing 2/06-timer.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/16-Reversing 1/01-vault-door-training.md",
+    "PicoCTF/17-Reversing 2",
+    "PicoCTF/Tarea 4/09-substitution2.md",
+    "PicoCTF/Tarea 4/10-Vigenere.md",
+    "PicoCTF/16-Reversing 1/05-vault-door-5.md",
     "PicoCTF/16-Reversing 1/04-vault-door-4.md",
     "MTA2ICwgODUgICwgNTMgICwgMTE2ICwgOTUgICwgNTIgICwgOTUgICwgOTg.md",
-    "PicoCTF/16-Reversing 1/05-vault-door-5.md",
     "PicoCTF/16-Reversing 1/03-vault-door-3.md",
     "PicoCTF/16-Reversing 1/02-vault-door-1.md",
-    "PicoCTF/16-Reversing 1/01-vault-door-training.md",
-    "PicoCTF/Plantilla.md",
     "README.md",
     "PicoCTF/15-Crypto 4/04-ReadMyCert.md",
     "PicoCTF/16-Reversing 1/Untitled",
-    "PicoCTF/Tarea 4/10-Vigenere.md",
     "PicoCTF/16-Reversing 1",
-    "PicoCTF/Tarea 4/09-substitution2.md",
     "PicoCTF/Tarea 4/08-substitution1.md",
     "PicoCTF/Tarea 4/07-substitution0.md",
     "PicoCTF/Tarea 4/06-rail-fence.md",
@@ -208,21 +215,14 @@
     "PicoCTF/Tarea 4/02-credstuff.md",
     "PicoCTF/Tarea 4/01-Crack the Power.md",
     "PicoCTF/14-Crypto 3/03-b00tl3gRSA2.md",
-    "PicoCTF/15-Crypto 4/05-flags.md",
     "PicoCTF/Tarea 4",
-    "PicoCTF/15-Crypto 4/02-basic-mod1.md",
-    "PicoCTF/15-Crypto 4/01-Pixelated.md",
-    "PicoCTF/15-Crypto 4/03-HideToSee.md",
-    "PicoCTF/14-Crypto 3/04-b00tl3gRSA3.md",
     "PicoCTF/15-Crypto 4",
-    "PicoCTF/14-Crypto 3/02-Mind your Ps and Qs.md",
     "PicoCTF/14-Crypto 3",
     "PicoCTF/13-Crypto 2",
     "PicoCTF/12-Crypto 1",
     "PicoCTF/Examen 1/Web Exploitation/Untitled",
     "PicoCTF/Examen 1/Web Exploitation",
     "PicoCTF/Examen 1/Untitled.canvas",
-    "PicoCTF/Examen 1/General Skills",
     "Pasted image 20260206180819.png"
   ]
 }
